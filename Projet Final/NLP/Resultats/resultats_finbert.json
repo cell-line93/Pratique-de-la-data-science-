@@ -1,0 +1,210 @@
+{
+    "qualcomm": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "alphabet": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "amazon": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "nvidia": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "samsung": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "exxonmobil": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "hyundai": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "shell": {
+        "Sentiments par actualit\u00e9": [
+            2,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            2,
+            0,
+            1,
+            1,
+            2,
+            1,
+            2,
+            2,
+            1
+        ],
+        "Sentiment global": "positif"
+    },
+    "adobe": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "asml": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "cisco": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "goldman sachs": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "icbc": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "jp morgan": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "meta": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "reliance industries": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "pfizer": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "siemens": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "tata consultancy services": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "tesla": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "totalenergies": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "jd.com": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "baidu": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "toyota": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "amd": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "apple": {
+        "Sentiments par actualit\u00e9": [
+            1,
+            2,
+            1,
+            2,
+            1,
+            0,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            2,
+            2,
+            1
+        ],
+        "Sentiment global": "positif"
+    },
+    "netflix": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "oracle": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "byd": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "softbank": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "visa": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "sap": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "intel": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "microsoft": {
+        "Sentiments par actualit\u00e9": [
+            0,
+            2,
+            1,
+            2,
+            1,
+            1,
+            0,
+            0,
+            2,
+            2
+        ],
+        "Sentiment global": "n\u00e9gatif"
+    },
+    "nintendo": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "ibm": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "tencent": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "johnson & johnson": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "alibaba": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "louis vuitton (lvmh)": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    },
+    "sony": {
+        "Sentiments par actualit\u00e9": [],
+        "Sentiment global": "neutre"
+    }
+}

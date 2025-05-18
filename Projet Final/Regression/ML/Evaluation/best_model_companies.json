@@ -1,0 +1,863 @@
+{
+    "Adobe": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 145.6805058952943,
+                "RMSE": 12.06981797274898
+            },
+            "random_forest_reg_model": {
+                "MSE": 147.7662246387982,
+                "RMSE": 12.155913155283654
+            },
+            "knn_reg_model": {
+                "MSE": 492.41435366276795,
+                "RMSE": 22.19041129999099
+            },
+            "reg_linear_model": {
+                "MSE": 128.26197810274303,
+                "RMSE": 11.325280486713918
+            }
+        }
+    },
+    "Alibaba": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 15.933269009850413,
+                "RMSE": 3.9916499107324546
+            },
+            "random_forest_reg_model": {
+                "MSE": 28.177616462404323,
+                "RMSE": 5.30825926857424
+            },
+            "knn_reg_model": {
+                "MSE": 142.04183261256435,
+                "RMSE": 11.91813041599077
+            },
+            "reg_linear_model": {
+                "MSE": 10.523425475767217,
+                "RMSE": 3.2439829647775924
+            }
+        }
+    },
+    "Alphabet": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 13.076470994093354,
+                "RMSE": 3.6161403449110425
+            },
+            "random_forest_reg_model": {
+                "MSE": 12.538367436461316,
+                "RMSE": 3.540955723595159
+            },
+            "knn_reg_model": {
+                "MSE": 52.50030312029727,
+                "RMSE": 7.245709290352275
+            },
+            "reg_linear_model": {
+                "MSE": 11.624483815002712,
+                "RMSE": 3.4094697263654816
+            }
+        }
+    },
+    "Amazon": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 19.70540374462925,
+                "RMSE": 4.4390769023108
+            },
+            "random_forest_reg_model": {
+                "MSE": 22.420712015233562,
+                "RMSE": 4.735051426883721
+            },
+            "knn_reg_model": {
+                "MSE": 68.7627096515628,
+                "RMSE": 8.29232836129653
+            },
+            "reg_linear_model": {
+                "MSE": 17.884105746879584,
+                "RMSE": 4.228960362415281
+            }
+        }
+    },
+    "AMD": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 19.89337263724386,
+                "RMSE": 4.460198721721249
+            },
+            "random_forest_reg_model": {
+                "MSE": 19.826892464436582,
+                "RMSE": 4.45273988286275
+            },
+            "knn_reg_model": {
+                "MSE": 89.96336529032038,
+                "RMSE": 9.484901965245628
+            },
+            "reg_linear_model": {
+                "MSE": 18.04567396823567,
+                "RMSE": 4.248020005630349
+            }
+        }
+    },
+    "Apple": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 26.139411660076906,
+                "RMSE": 5.112671675364741
+            },
+            "random_forest_reg_model": {
+                "MSE": 26.640000220164644,
+                "RMSE": 5.161395181553592
+            },
+            "knn_reg_model": {
+                "MSE": 112.20539709306736,
+                "RMSE": 10.592704899744321
+            },
+            "reg_linear_model": {
+                "MSE": 18.60741071523346,
+                "RMSE": 4.313630804233652
+            }
+        }
+    },
+    "ASML": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 468.549470679738,
+                "RMSE": 21.646003572940156
+            },
+            "random_forest_reg_model": {
+                "MSE": 485.8634312860444,
+                "RMSE": 22.042310026084934
+            },
+            "knn_reg_model": {
+                "MSE": 1643.4313415554523,
+                "RMSE": 40.53925679579551
+            },
+            "reg_linear_model": {
+                "MSE": 420.51494641160633,
+                "RMSE": 20.506461089412927
+            }
+        }
+    },
+    "Baidu": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 11.780498213681524,
+                "RMSE": 3.4322730389177263
+            },
+            "random_forest_reg_model": {
+                "MSE": 21.940637591505272,
+                "RMSE": 4.68408343131346
+            },
+            "knn_reg_model": {
+                "MSE": 256.40488743947185,
+                "RMSE": 16.012647733572106
+            },
+            "reg_linear_model": {
+                "MSE": 7.252493611873538,
+                "RMSE": 2.6930454158579535
+            }
+        }
+    },
+    "BYD": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 7.826893651834842,
+                "RMSE": 2.7976586017301757
+            },
+            "random_forest_reg_model": {
+                "MSE": 7.103821927894555,
+                "RMSE": 2.665299594397327
+            },
+            "knn_reg_model": {
+                "MSE": 30.153316478223466,
+                "RMSE": 5.491203554615643
+            },
+            "reg_linear_model": {
+                "MSE": 5.925210857530803,
+                "RMSE": 2.434175601210973
+            }
+        }
+    },
+    "Cisco": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 0.8739277884481608,
+                "RMSE": 0.9348410498304837
+            },
+            "random_forest_reg_model": {
+                "MSE": 0.8363273683456085,
+                "RMSE": 0.9145093593537512
+            },
+            "knn_reg_model": {
+                "MSE": 2.459240399144426,
+                "RMSE": 1.5681965435315899
+            },
+            "reg_linear_model": {
+                "MSE": 0.6696921471922561,
+                "RMSE": 0.818347204548446
+            }
+        }
+    },
+    "ExxonMobil": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 10.222119553329817,
+                "RMSE": 3.1972049595435412
+            },
+            "random_forest_reg_model": {
+                "MSE": 7.428182279614595,
+                "RMSE": 2.7254691852256547
+            },
+            "knn_reg_model": {
+                "MSE": 31.734047437324257,
+                "RMSE": 5.633298095904766
+            },
+            "reg_linear_model": {
+                "MSE": 2.915936803209282,
+                "RMSE": 1.7076114321499731
+            }
+        }
+    },
+    "Goldman Sachs": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 167.8717321083328,
+                "RMSE": 12.956532410654201
+            },
+            "random_forest_reg_model": {
+                "MSE": 163.31871659610889,
+                "RMSE": 12.779621144467033
+            },
+            "knn_reg_model": {
+                "MSE": 637.1199386988666,
+                "RMSE": 25.241234888548274
+            },
+            "reg_linear_model": {
+                "MSE": 135.18361912505617,
+                "RMSE": 11.62684906262467
+            }
+        }
+    },
+    "Hyundai": {
+        "best model": "xgboost_reg_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 2.30884246245102,
+                "RMSE": 1.5194875657441294
+            },
+            "random_forest_reg_model": {
+                "MSE": 2.3917016554141846,
+                "RMSE": 1.5465127401396292
+            },
+            "knn_reg_model": {
+                "MSE": 7.244635050228689,
+                "RMSE": 2.6915859730331277
+            },
+            "reg_linear_model": {
+                "MSE": 2.3400166636438122,
+                "RMSE": 1.5297113007505083
+            }
+        }
+    },
+    "IBM": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 21.91819526574181,
+                "RMSE": 4.68168722425386
+            },
+            "random_forest_reg_model": {
+                "MSE": 18.835314491264597,
+                "RMSE": 4.3399671071639006
+            },
+            "knn_reg_model": {
+                "MSE": 123.94572326880362,
+                "RMSE": 11.133091361737925
+            },
+            "reg_linear_model": {
+                "MSE": 16.418847404161596,
+                "RMSE": 4.052017695440334
+            }
+        }
+    },
+    "ICBC": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 0.009178783927547113,
+                "RMSE": 0.0958059702082658
+            },
+            "random_forest_reg_model": {
+                "MSE": 0.008104081854197514,
+                "RMSE": 0.09002267411156765
+            },
+            "knn_reg_model": {
+                "MSE": 0.02999497262208388,
+                "RMSE": 0.17319056735886015
+            },
+            "reg_linear_model": {
+                "MSE": 0.0056881667054945,
+                "RMSE": 0.07541993572984865
+            }
+        }
+    },
+    "Intel": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 0.9913002345313179,
+                "RMSE": 0.9956406151475129
+            },
+            "random_forest_reg_model": {
+                "MSE": 1.1499915254991182,
+                "RMSE": 1.0723765782126715
+            },
+            "knn_reg_model": {
+                "MSE": 7.2552681993238535,
+                "RMSE": 2.6935605059704626
+            },
+            "reg_linear_model": {
+                "MSE": 0.9355324767212274,
+                "RMSE": 0.9672292782588973
+            }
+        }
+    },
+    "JD.com": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 1.844217856297934,
+                "RMSE": 1.3580198291254566
+            },
+            "random_forest_reg_model": {
+                "MSE": 2.9014405700818524,
+                "RMSE": 1.703361550018625
+            },
+            "knn_reg_model": {
+                "MSE": 12.787681783231857,
+                "RMSE": 3.5759868264902566
+            },
+            "reg_linear_model": {
+                "MSE": 1.420270146568275,
+                "RMSE": 1.1917508743727756
+            }
+        }
+    },
+    "Johnson & Johnson": {
+        "best model": "xgboost_reg_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 3.423987313575013,
+                "RMSE": 1.8504019329797008
+            },
+            "random_forest_reg_model": {
+                "MSE": 3.461178121732799,
+                "RMSE": 1.860424177904813
+            },
+            "knn_reg_model": {
+                "MSE": 10.828504786250875,
+                "RMSE": 3.29066935231282
+            },
+            "reg_linear_model": {
+                "MSE": 3.6161003849069737,
+                "RMSE": 1.901604686812423
+            }
+        }
+    },
+    "JP Morgan": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 24.82339206730142,
+                "RMSE": 4.982307905710106
+            },
+            "random_forest_reg_model": {
+                "MSE": 23.031593607641227,
+                "RMSE": 4.799124254240687
+            },
+            "knn_reg_model": {
+                "MSE": 72.57581133206442,
+                "RMSE": 8.519143814495939
+            },
+            "reg_linear_model": {
+                "MSE": 17.27448660497772,
+                "RMSE": 4.156258726905451
+            }
+        }
+    },
+    "Louis Vuitton (LVMH)": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 170.6536360272685,
+                "RMSE": 13.063446560049476
+            },
+            "random_forest_reg_model": {
+                "MSE": 171.78878254000077,
+                "RMSE": 13.106821984752855
+            },
+            "knn_reg_model": {
+                "MSE": 951.6402641947593,
+                "RMSE": 30.848667138058968
+            },
+            "reg_linear_model": {
+                "MSE": 157.5138789510482,
+                "RMSE": 12.550453336475469
+            }
+        }
+    },
+    "Meta": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 236.2397662797503,
+                "RMSE": 15.370093242389595
+            },
+            "random_forest_reg_model": {
+                "MSE": 232.43213017842686,
+                "RMSE": 15.245724980414243
+            },
+            "knn_reg_model": {
+                "MSE": 1127.593870028951,
+                "RMSE": 33.57966453121518
+            },
+            "reg_linear_model": {
+                "MSE": 175.88013106708505,
+                "RMSE": 13.261980661540909
+            }
+        }
+    },
+    "Microsoft": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 66.98632742235122,
+                "RMSE": 8.184517543652236
+            },
+            "random_forest_reg_model": {
+                "MSE": 59.62335928152355,
+                "RMSE": 7.721616364565358
+            },
+            "knn_reg_model": {
+                "MSE": 321.5897659269043,
+                "RMSE": 17.93292407631573
+            },
+            "reg_linear_model": {
+                "MSE": 44.2735413651781,
+                "RMSE": 6.653836589906465
+            }
+        }
+    },
+    "Netflix": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 437.28320578531157,
+                "RMSE": 20.911317648233254
+            },
+            "random_forest_reg_model": {
+                "MSE": 460.14424465275755,
+                "RMSE": 21.450973046758453
+            },
+            "knn_reg_model": {
+                "MSE": 2908.012850930144,
+                "RMSE": 53.92599420437368
+            },
+            "reg_linear_model": {
+                "MSE": 330.5199017136515,
+                "RMSE": 18.180206316586496
+            }
+        }
+    },
+    "Nintendo": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 0.1385599217551908,
+                "RMSE": 0.3722363788712635
+            },
+            "random_forest_reg_model": {
+                "MSE": 0.1318869870813111,
+                "RMSE": 0.36316248027750764
+            },
+            "knn_reg_model": {
+                "MSE": 0.5770397771104907,
+                "RMSE": 0.7596313428963359
+            },
+            "reg_linear_model": {
+                "MSE": 0.11592397235675268,
+                "RMSE": 0.3404760966011457
+            }
+        }
+    },
+    "NVIDIA": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 32.68374347490211,
+                "RMSE": 5.716969780828136
+            },
+            "random_forest_reg_model": {
+                "MSE": 27.370511545712194,
+                "RMSE": 5.2316834332471025
+            },
+            "knn_reg_model": {
+                "MSE": 97.23067517950254,
+                "RMSE": 9.860561605684666
+            },
+            "reg_linear_model": {
+                "MSE": 20.567959824001463,
+                "RMSE": 4.53519126652906
+            }
+        }
+    },
+    "Oracle": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 23.461944513456626,
+                "RMSE": 4.843753143323535
+            },
+            "random_forest_reg_model": {
+                "MSE": 21.78351765851221,
+                "RMSE": 4.667281613371129
+            },
+            "knn_reg_model": {
+                "MSE": 60.14573108313569,
+                "RMSE": 7.75536788831682
+            },
+            "reg_linear_model": {
+                "MSE": 17.216143525452008,
+                "RMSE": 4.149234089015948
+            }
+        }
+    },
+    "Pfizer": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 0.2906595148868189,
+                "RMSE": 0.5391284771618161
+            },
+            "random_forest_reg_model": {
+                "MSE": 0.3087889062132427,
+                "RMSE": 0.5556877776352857
+            },
+            "knn_reg_model": {
+                "MSE": 1.4880210693114635,
+                "RMSE": 1.2198446906518319
+            },
+            "reg_linear_model": {
+                "MSE": 0.16180636007137908,
+                "RMSE": 0.40225161288847444
+            }
+        }
+    },
+    "Qualcomm": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 21.41751895406746,
+                "RMSE": 4.627906541198456
+            },
+            "random_forest_reg_model": {
+                "MSE": 21.63941688607623,
+                "RMSE": 4.651818664358729
+            },
+            "knn_reg_model": {
+                "MSE": 57.15477397707566,
+                "RMSE": 7.560077643587774
+            },
+            "reg_linear_model": {
+                "MSE": 20.400625923489603,
+                "RMSE": 4.51670520661794
+            }
+        }
+    },
+    "Reliance Industries": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 768.8119880760873,
+                "RMSE": 27.727459098808303
+            },
+            "random_forest_reg_model": {
+                "MSE": 635.4669922195995,
+                "RMSE": 25.20847064420211
+            },
+            "knn_reg_model": {
+                "MSE": 2578.2714236046145,
+                "RMSE": 50.776681888487104
+            },
+            "reg_linear_model": {
+                "MSE": 434.7097925646032,
+                "RMSE": 20.84969526311124
+            }
+        }
+    },
+    "Samsung": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 2254225.6932697943,
+                "RMSE": 1501.4079036923292
+            },
+            "random_forest_reg_model": {
+                "MSE": 2279126.3186707883,
+                "RMSE": 1509.6775545363282
+            },
+            "knn_reg_model": {
+                "MSE": 6860698.924320633,
+                "RMSE": 2619.2935926162672
+            },
+            "reg_linear_model": {
+                "MSE": 1881445.4978841783,
+                "RMSE": 1371.6579376375796
+            }
+        }
+    },
+    "SAP": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 26.549119418338286,
+                "RMSE": 5.152583761409249
+            },
+            "random_forest_reg_model": {
+                "MSE": 23.641658622088876,
+                "RMSE": 4.862268875955841
+            },
+            "knn_reg_model": {
+                "MSE": 93.11716890448278,
+                "RMSE": 9.649723773480916
+            },
+            "reg_linear_model": {
+                "MSE": 15.971074024622572,
+                "RMSE": 3.9963826173957084
+            }
+        }
+    },
+    "Shell": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 3551.52357216475,
+                "RMSE": 59.59466060113733
+            },
+            "random_forest_reg_model": {
+                "MSE": 2550.0022564719125,
+                "RMSE": 50.49754703420665
+            },
+            "knn_reg_model": {
+                "MSE": 15381.183442703312,
+                "RMSE": 124.02089921744364
+            },
+            "reg_linear_model": {
+                "MSE": 1226.2611527973395,
+                "RMSE": 35.018011833874
+            }
+        }
+    },
+    "Siemens": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 15.997393599360729,
+                "RMSE": 3.999674186650799
+            },
+            "random_forest_reg_model": {
+                "MSE": 15.71631333991983,
+                "RMSE": 3.964380574556362
+            },
+            "knn_reg_model": {
+                "MSE": 56.622936836698386,
+                "RMSE": 7.524821382378348
+            },
+            "reg_linear_model": {
+                "MSE": 15.277654123414798,
+                "RMSE": 3.9086639819015905
+            }
+        }
+    },
+    "SoftBank": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 87385.83844955197,
+                "RMSE": 295.61095793213076
+            },
+            "random_forest_reg_model": {
+                "MSE": 93766.44338041326,
+                "RMSE": 306.2130685983426
+            },
+            "knn_reg_model": {
+                "MSE": 369971.8531761528,
+                "RMSE": 608.2531160431098
+            },
+            "reg_linear_model": {
+                "MSE": 80817.37051496243,
+                "RMSE": 284.28396105823913
+            }
+        }
+    },
+    "Sony": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 0.21717236829458195,
+                "RMSE": 0.46601756221689966
+            },
+            "random_forest_reg_model": {
+                "MSE": 0.20210015223537692,
+                "RMSE": 0.4495555051774774
+            },
+            "knn_reg_model": {
+                "MSE": 0.7420108883074555,
+                "RMSE": 0.8614005388362928
+            },
+            "reg_linear_model": {
+                "MSE": 0.16288975883625073,
+                "RMSE": 0.40359603421769485
+            }
+        }
+    },
+    "Tata Consultancy Services": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 7338.603112678884,
+                "RMSE": 85.66564721449832
+            },
+            "random_forest_reg_model": {
+                "MSE": 6290.937245983945,
+                "RMSE": 79.31542880161429
+            },
+            "knn_reg_model": {
+                "MSE": 31343.165634570065,
+                "RMSE": 177.04001139451518
+            },
+            "reg_linear_model": {
+                "MSE": 3048.6255358370904,
+                "RMSE": 55.21435986984808
+            }
+        }
+    },
+    "Tencent": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 2.1426887355999917,
+                "RMSE": 1.463792586263502
+            },
+            "random_forest_reg_model": {
+                "MSE": 2.2185868529120003,
+                "RMSE": 1.4894921459719082
+            },
+            "knn_reg_model": {
+                "MSE": 10.243244248767821,
+                "RMSE": 3.20050687372607
+            },
+            "reg_linear_model": {
+                "MSE": 1.8556044591195624,
+                "RMSE": 1.362205733037254
+            }
+        }
+    },
+    "Tesla": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 177.6967406985094,
+                "RMSE": 13.330294096474743
+            },
+            "random_forest_reg_model": {
+                "MSE": 177.53388508449078,
+                "RMSE": 13.324184218348632
+            },
+            "knn_reg_model": {
+                "MSE": 846.938098120444,
+                "RMSE": 29.102200915402328
+            },
+            "reg_linear_model": {
+                "MSE": 159.05676181522165,
+                "RMSE": 12.61177076445737
+            }
+        }
+    },
+    "TotalEnergies": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 1.7418462081963177,
+                "RMSE": 1.3197902137068291
+            },
+            "random_forest_reg_model": {
+                "MSE": 1.0556578433476713,
+                "RMSE": 1.0274521124352567
+            },
+            "knn_reg_model": {
+                "MSE": 8.785905995835268,
+                "RMSE": 2.964102898995794
+            },
+            "reg_linear_model": {
+                "MSE": 0.6177321371407036,
+                "RMSE": 0.785959373721507
+            }
+        }
+    },
+    "Toyota": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 13.044615352343635,
+                "RMSE": 3.6117330123285187
+            },
+            "random_forest_reg_model": {
+                "MSE": 12.83137631789343,
+                "RMSE": 3.5820910538250463
+            },
+            "knn_reg_model": {
+                "MSE": 52.21302107275838,
+                "RMSE": 7.225857808783562
+            },
+            "reg_linear_model": {
+                "MSE": 12.520592402314625,
+                "RMSE": 3.5384449129970394
+            }
+        }
+    },
+    "Visa": {
+        "best model": "reg_linear_model",
+        "metrique evaluation": {
+            "xgboost_reg_model": {
+                "MSE": 26.442830720724267,
+                "RMSE": 5.142259301194784
+            },
+            "random_forest_reg_model": {
+                "MSE": 25.071574024352433,
+                "RMSE": 5.007152286914432
+            },
+            "knn_reg_model": {
+                "MSE": 111.50874863216006,
+                "RMSE": 10.55977029258497
+            },
+            "reg_linear_model": {
+                "MSE": 18.55423471450792,
+                "RMSE": 4.307462677088209
+            }
+        }
+    }
+}
